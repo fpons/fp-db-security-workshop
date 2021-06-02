@@ -17,25 +17,25 @@
             "title": "Lab02: Register the ATP-S instance to Data Safe",
             "description":"Lab02",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab200/content.md"
+            "filename":"../Labs/DataSafe/lab200/lab200.md"
         },
         {
             "title": "Lab03: Provision Audit and Alert Policies",
             "description":"Lab03",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab300/content.md"
+            "filename":"../Labs/DataSafe/lab300/lab300.md"
         },
         {
             "title": "Lab04: Run Security Assessments with Data Safe",
             "description":"Lab04",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab400/content.md"
+            "filename":"../Labs/DataSafe/lab400/lab400.md"
         },
         {
             "title": "Lab05: Discover and Mask Sensitive Data",
             "description":"Lab05",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab500/content.md"
+            "filename":"../Labs/DataSafe/lab500/lab500.md"
         }
     ]
 }
