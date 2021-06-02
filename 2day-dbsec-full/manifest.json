@@ -1,0 +1,101 @@
+{
+    "workshoptitle": "Oracle Database Security Solutions Workshop",
+    "tutorials": [
+        {
+            "title": "Oracle Database Security Solutions 2-day Workshop",
+            "description":"Workhop Overview",
+            "publisheddate": "01/15/2020",
+            "filename":"./about-the-workshop/content.md"
+        },
+        {
+            "title": "Lab 0: Accessing the Labs environment",
+            "description":"Accessing the Labs environment",
+            "publisheddate": "04/21/2020",
+            "filename":"../Labs/Database/lab000/lab000_accessing.md"
+        },
+        {
+            "title": "Lab 1: Database Security Assessment Tool",
+            "description":"Database Security Assessment Tool",
+            "publisheddate": "04/24/2020",
+            "filename":"../Labs/Database/lab100/lab100_dbsat.md"
+        },
+        {
+            "title": "Lab 2: Network Encryption",
+            "description":"Lab 2: Network Encryption",
+            "publisheddate": "05/05/2020",
+            "filename":"../Labs/Database/lab200/lab200_network_encryption.md"
+        },
+        {
+            "title": "Lab 3: Transparent Data Encryption",
+            "description":"Lab 3: Transparent Data Encryption",
+            "publisheddate": "05/08/2020",
+            "filename":"../Labs/Database/lab300/lab300_transparent_data_encryption.md"
+        },
+        {
+            "title": "Lab 4: Data Redaction",
+            "description":"Lab 4: Data Redaction",
+            "publisheddate": "05/08/2020",
+            "filename":"../Labs/Database/lab400/lab400_data_redaction.md"
+        },
+        {
+            "title": "Lab 5: Privilege Analysis",
+            "description":"Lab 5: Privilege Analysis",
+            "publisheddate": "05/08/2020",
+            "filename":"../Labs/Database/lab500/lab500_privilege_analysis.md"
+        },
+        {
+            "title": "Lab 6: Database Vault",
+            "description":"Lab 6: Database Vault",
+            "publisheddate": "05/08/2020",
+            "filename":"../Labs/Database/lab600/lab600_database_vault.md"
+        },
+        {
+            "title": "Lab 7: Database Audit",
+            "description":"Lab 7: Database Audit",
+            "publisheddate": "04/21/2020",
+            "filename":"../Labs/Database/lab700/lab700_database_audit.md"
+        },
+        {
+            "title": "Lab 8: Audit Vault",
+            "description":"Lab 8",
+            "publisheddate": "04/21/2020",
+            "filename":"../Labs/Database/lab800/lab800_audit_vault.md"
+        },
+        {
+            "title": "Lab 10 (optional): Running DBSAT and compare results",
+            "description":"Lab 10",
+            "publisheddate": "04/21/2020",
+            "filename":"../Labs/Database/lab1000/lab1000_dbsat_compare.md"
+        },
+        {
+            "title": "Lab DS01: Provision an ATP-S instance and import data",
+            "description":"Lab DS01",
+            "publisheddate": "04/14/2020",
+            "filename":"../Labs/DataSafe/lab100/content.md"
+        },
+        {
+            "title": "Lab DS02: Register ATP-S instance to Data Safe",
+            "description":"Lab DS02",
+            "publisheddate": "04/14/2020",
+            "filename":"../Labs/DataSafe/lab200/content.md"
+        },
+        {
+            "title": "Lab DS03: Provision Audit and Alert Policies",
+            "description":"Lab DS03",
+            "publisheddate": "04/14/2020",
+            "filename":"../Labs/DataSafe/lab300/content.md"
+        },
+        {
+            "title": "Lab DS04: Run Security Assessments with Data Safe",
+            "description":"Lab DS04",
+            "publisheddate": "04/14/2020",
+            "filename":"../Labs/DataSafe/lab400/content.md"
+        },
+        {
+            "title": "Lab DS05: Discover and Mask Sensitive Data",
+            "description":"Lab DS05",
+            "publisheddate": "04/14/2020",
+            "filename":"../Labs/DataSafe/lab500/content.md"
+        }    
+    ]
+}
