@@ -11,7 +11,7 @@
             "title": "Lab01: Provision an ATP-S instance and import data",
             "description":"Lab01",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab100/content.md"
+            "filename":"../Labs/DataSafe/lab100/lab100.md"
         },
         {
             "title": "Lab02: Register the ATP-S instance to Data Safe",
