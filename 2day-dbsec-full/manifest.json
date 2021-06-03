@@ -68,34 +68,34 @@
             "filename":"../Labs/Database/lab1000/lab1000_dbsat_compare.md"
         },
         {
-            "title": "Lab DS01: Provision an ATP-S instance and import data",
+            "title": "Data Safe Lab01: Provision an ATP-S instance and import data",
             "description":"Lab DS01",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab100/content.md"
+            "filename":"../Labs/DataSafe/lab100/lab100.md"
         },
         {
-            "title": "Lab DS02: Register ATP-S instance to Data Safe",
+            "title": "Data Safe Lab02: Register ATP-S instance to Data Safe",
             "description":"Lab DS02",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab200/content.md"
+            "filename":"../Labs/DataSafe/lab200/lab200.md"
         },
         {
-            "title": "Lab DS03: Provision Audit and Alert Policies",
+            "title": "Data Safe Lab03: Provision Audit and Alert Policies",
             "description":"Lab DS03",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab300/content.md"
+            "filename":"../Labs/DataSafe/lab300/lab300.md"
         },
         {
-            "title": "Lab DS04: Run Security Assessments with Data Safe",
+            "title": "Data Safe Lab04: Run Security Assessments with Data Safe",
             "description":"Lab DS04",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab400/content.md"
+            "filename":"../Labs/DataSafe/lab400/lab400.md"
         },
         {
-            "title": "Lab DS05: Discover and Mask Sensitive Data",
+            "title": "Data Safe Lab05: Discover and Mask Sensitive Data",
             "description":"Lab DS05",
             "publisheddate": "04/14/2020",
-            "filename":"../Labs/DataSafe/lab500/content.md"
+            "filename":"../Labs/DataSafe/lab500/lab500.md"
         }    
     ]
 }
