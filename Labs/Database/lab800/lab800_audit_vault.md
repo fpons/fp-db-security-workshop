@@ -17,8 +17,7 @@ Good practice dictates that audit data should be transmitted to a remote central
 
 This is also recommended by DBSAT findings such as the following one:
 
-
-![Alt text](./images/img01.png " ")
+![Alt text](./images/av20c_img00.png " ")
 
 The Audit Vault Server solves these problems by collecting and consolidating audit data, providing comprehensive reports and alerts for forensic and compliance purposes and managing its retention over time.
 
